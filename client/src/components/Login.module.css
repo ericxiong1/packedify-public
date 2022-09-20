@@ -1,0 +1,25 @@
+.App-link {
+    line-height: 30px;
+    width: 10em;
+    text-align: center;
+    background-color: salmon;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    margin-top: 5vh;
+  }
+  .title{
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+  }
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.img{
+  height: 200px;
+  width: 200px;
+}

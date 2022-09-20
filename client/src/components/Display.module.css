@@ -1,0 +1,71 @@
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 90vw;
+    background-color: #7F95D1;
+    padding: 10px;
+    border-radius: 10px;
+}
+.title{
+    color: #FFEBE7;
+    font-weight: 100;
+    font-size: 3vh;
+    height: 20%;
+    width:100%;
+    text-align: center;
+
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 16%;
+    width: 100%;
+    font-weight: 100;
+    font-size: 2.9vw;
+}
+.track{
+    color: white;
+    height: 8%;
+    width: 100%;
+    font-weight: 100;
+    font-size: 1.1em;
+    overflow: hidden;
+}
+.divider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width:40%;
+    padding-left: 10%;
+}
+.dividerArtist{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width:50%;
+}
+.img{
+    height: 60px;
+    width: 60px;
+    margin-right: 10px;
+}
+.button{
+    line-height: 30px;
+    width: 10em;
+    text-align: center;
+    background-color: salmon;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    margin-top: 2vh;
+    border-color: transparent;
+}
+.button:hover{
+    cursor:pointer;
+}
