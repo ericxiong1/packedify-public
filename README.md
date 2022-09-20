@@ -13,8 +13,9 @@ This app runs on Node.js.
 
 Once installed, clone the repository and install its dependencies running:
 
-$ npm install
-$ cd client && npm install
+>$ npm install
+
+>$ cd client && npm install
 
 ## Using the Spotify Developer Dashboard ##
 You will need to register your app and get your own credentials from the Spotify for Developers Dashboard.
@@ -31,6 +32,7 @@ In order to run the app, open the folder, and run its index.js file:
 In another terminal, run the React front-end:
 
 >$ cd client
+
 >$ npm start
 
 Then, open your local development server.
