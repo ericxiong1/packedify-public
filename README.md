@@ -26,11 +26,11 @@ Once you have created your app, load the CLIENT_ID, REDIRECT_URI, and CLIENT_SEC
 
 In order to run the app, open the folder, and run its index.js file:
 
-$ node index.js
+>$ node index.js
 
 In another terminal, run the React front-end:
 
-$ cd client
-$ npm start
+>$ cd client
+>$ npm start
 
 Then, open your local development server.
