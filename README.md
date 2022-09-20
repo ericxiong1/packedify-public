@@ -35,4 +35,4 @@ In another terminal, run the React front-end:
 
 >$ npm start
 
-Then, open your local development server.
+Then, open your local development server. You will need to change all links to your local development server.
