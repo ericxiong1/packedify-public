@@ -5,6 +5,7 @@ You can view the app at https://packedify.herokuapp.com/. It currently does not 
 
 ## Technologies Used: ##
 React (front-end), Express, node.js(backend)
+Additional: axios(for easier API calls), query-string, create-react-app
 
 ## Running the app ##
 
